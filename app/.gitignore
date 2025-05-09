@@ -1,0 +1,16 @@
+/build
+
+# Ignore local project config files
+local.properties
+
+# Ignore Gradle cache files
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Ignore local IDE config files
+.idea
+.vscode

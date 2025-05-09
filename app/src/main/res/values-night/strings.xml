@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="in_call_with">In call with %1$s</string>
+    <string name="campos_vazios">Campos vazios</string>
+    <string name="unverified_email">Email não verificado. Por favor, verifique o seu email.</string>
+    <string name="wrong_password">As senhas não coincidem!</string>
+    <string name="failure_creating_user">Falha ao criar usuário: %1$s</string>
+    <string name="verification_email_sent">Email de verificação enviado</string>
+    <string name="failed_to_send_verification_email">Falha ao enviar email de verificação: %1$s</string>
+    <string name="error_creating_user">Erro na criação do usuário: %1$s</string>
+    <string name="error_saving_user_info">Erro ao salvar informações do usuário: %1$s</string>
+    <string name="error_getting_current_user">Erro ao obter o usuário atual</string>
+    <string name="error_removing_user">Falha ao remover usuário: %1$s</string>
+    <string name="user_removed">Usuário removido%1$s</string>
+    <string name="due_to">" devido a %1$s"</string>
+    <string name="registration_error">Falha no registro</string>
+    <string name="selected_date">Selected Date: %1$s</string>
+    <string name="selected_time">Selected Time: %1$s</string>
+    <string name="nome_do_utente">Nome do Utente</string>
+    <string name="minutos_entre_chamadas">Minutos entre chamadas: %1$s</string>
+</resources>
